@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:gn="http://www.geonames.org/ontology#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#">
+  <gn:Feature rdf:about="http://sws.geonames.org/89/">
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/89/about.rdf"/>
+    <gn:name>Gelāl-e Mūrt</gn:name>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#H"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#H.STM"/>
+    <gn:countryCode>IR</gn:countryCode>
+    <wgs84_pos:lat>32.56667</wgs84_pos:lat>
+    <wgs84_pos:long>48.15</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/127082/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/130758/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/127082/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/89/nearby.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/89/gelal-e-murt.html"/>
+  </gn:Feature>
+</rdf:RDF>

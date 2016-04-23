@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:gn="http://www.geonames.org/ontology#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#">
+  <gn:Feature rdf:about="http://sws.geonames.org/90/">
+    <rdfs:isDefinedBy rdf:resource="http://sws.geonames.org/90/about.rdf"/>
+    <gn:name>Morād Hādī</gn:name>
+    <gn:alternateName xml:lang="fa">Morād Hādī</gn:alternateName>
+    <gn:featureClass rdf:resource="http://www.geonames.org/ontology#P"/>
+    <gn:featureCode rdf:resource="http://www.geonames.org/ontology#P.PPL"/>
+    <gn:countryCode>IR</gn:countryCode>
+    <wgs84_pos:lat>32.18333</wgs84_pos:lat>
+    <wgs84_pos:long>48.31667</wgs84_pos:long>
+    <gn:parentFeature rdf:resource="http://sws.geonames.org/127082/"/>
+    <gn:parentCountry rdf:resource="http://sws.geonames.org/130758/"/>
+    <gn:parentADM1 rdf:resource="http://sws.geonames.org/127082/"/>
+    <gn:nearbyFeatures rdf:resource="http://sws.geonames.org/90/nearby.rdf"/>
+    <gn:locationMap rdf:resource="http://www.geonames.org/90/morad-hadi.html"/>
+    <gn:wikipediaArticle rdf:resource="http://en.wikipedia.org/wiki/Morad_Hadi"/>
+    <rdfs:seeAlso rdf:resource="http://dbpedia.org/resource/Morad_Hadi"/>
+  </gn:Feature>
+</rdf:RDF>

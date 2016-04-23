@@ -1,0 +1,22 @@
+{
+  "name": "ml-load-triples",
+  "version": "0.0.1",
+  "description": "Load triples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wooldridge/ml-load-triples.git"
+  },
+  "author": "Mike Wooldridge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wooldridge/ml-load-triples/issues"
+  },
+  "homepage": "https://github.com/wooldridge/ml-load-triples",
+  "dependencies": {
+    "marklogic": "^1.0.5"
+  }
+}
